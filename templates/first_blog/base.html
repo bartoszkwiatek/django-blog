@@ -1,0 +1,38 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link href="{% static "css/first_blog.css" %}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto" rel="stylesheet">
+
+</head>
+<body>
+<div class="wholecontent">
+<!--    nav bar wannabe
+      <nav>
+      <ul>
+        <li><a href="#"><b>Arctic</b></a></li>
+        <li><a href="#">Alpine</a></li>
+        <li><a href="#">Antarctic</a></li>
+      </ul>
+      <div class="contact-btn"><a>Contact</a>
+      </div>
+    </nav>          -->
+
+    <div id="content">
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <div id="sidebar">
+        <h2 id="sidebar_title"><a href="{% url "first_blog:post_list" %}">My blog</a></h2>
+        <p>This is my blog.</p>
+    </div>
+
+</div>
+</body>
+</html>
