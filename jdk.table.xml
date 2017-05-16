@@ -1,0 +1,96 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.2 (/usr/bin/python3.4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="/usr/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python3.4/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python3.4/dist-packages" />
+            <root type="simple" url="jar:///usr/local/lib/python3.4/dist-packages/setuptools-28.8.0-py3.4.egg!/" />
+            <root type="simple" url="file:///usr/local/lib/python3.4/dist-packages/pip-9.0.1-py3.4.egg" />
+            <root type="simple" url="file:///usr/lib/python3/dist-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1247971765" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.2 virtualenv at ~/django-first" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="$USER_HOME$/django-first/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/django-first/lib/python3.4/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/django-first/lib/python3.4/site-packages/setuptools-28.8.0-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/django-first/lib/python3.4/site-packages/pip-9.0.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/80475534" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.2 virtualenv at ~/django-first (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.2" />
+      <homePath value="$USER_HOME$/django-first/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/django-first/lib/python3.4/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/django-first/lib/python3.4/site-packages/setuptools-28.8.0-py3.4.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/django-first/lib/python3.4/site-packages/pip-9.0.1-py3.4.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/80475534" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
